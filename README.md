@@ -6,17 +6,18 @@
 # give an improved version
 # And finally show the ideal solution
 
+# Dry run => https://pythontutor.com/visualize.html
+
 # Filename - <problem-name>-lc<leetcode-qno>.py
 # 1. LeetCode link
 # 2. DSA Pattern
 # 3. Brute Force Solution (code)
 # 4. Time & Space (Brute) — explain why
 # 5. Optimal Solution (code)
-# 6. Dry Run (sample input)
 # 7. Time & Space (Optimal) — explain why
 # 8. Followup Question
 # 9. Edge Cases
-# 10. Mistake to Avoid - critique,followup q
+# 10. Mistake to Avoid
 
 ## ============================================================================
 
