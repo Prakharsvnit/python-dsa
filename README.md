@@ -2,8 +2,21 @@
 # Filename - <problem-name>-lc<leetcode-qno>.py
 
 # Chatgpt prompt:
-review my solution, behave like a real interviewer:
-critique first
+review my solution, behave like a real interviewer:critique first
+naming conventions
+meaningful variable names
+handling edgecases
+cleancode
+followup questions,and answers
+adjust your solution
+
+## Edgecases:
+Empty input
+Null values
+Single element
+Very large input
+Duplicate values
+Negative numbers
 
 Write a copy and paste Python file with below template:
 
